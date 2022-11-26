@@ -19,10 +19,14 @@ public class Main {
         InputMaterial inputMaterial2 = new InputMaterial(material2,LocalDate.now());
         InputMaterial inputMaterial3 = new InputMaterial(material3,LocalDate.now());
         InputMaterial inputMaterial4 = new InputMaterial(material4,LocalDate.now());
+        InputMaterial inputMaterial5 = new InputMaterial(material1,LocalDate.now());
+        InputMaterial inputMaterial6 = new InputMaterial(material1,LocalDate.now());
         inputMaterialsList.add(inputMaterial1);
         inputMaterialsList.add(inputMaterial2);
         inputMaterialsList.add(inputMaterial3);
         inputMaterialsList.add(inputMaterial4);
+        inputMaterialsList.add(inputMaterial5);
+        inputMaterialsList.add(inputMaterial6);
 
 
     }
